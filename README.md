@@ -65,3 +65,4 @@ Es fundador de la **Escuela de Hostelería Aiala** y del **Hotel Restaurante Kar
 
 En **2021 recibió el Premio Nacional de Televisión**.
 
+# repositorioCompartido
